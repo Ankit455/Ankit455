@@ -1,30 +1,32 @@
-<!-- Profile README — github.com/AnkitDhandharia -->
+<!-- Profile README — github.com/Ankit455 -->
 
 <h1 align="center">Hi 👋, I'm Ankit Dhandharia</h1>
 <h3 align="center">Data Engineer · AI/ML Engineer · Software Engineer · Data Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=560&lines=AWS+Certified+Data+Engineer;Building+Scalable+Pipelines+%26+Streaming+Systems;RAG+%7C+LangChain+%7C+LLMs+%7C+Vector+DBs;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=AWS+Certified+Data+Engineer;Medallion+Architecture+%7C+Snowflake+%7C+dbt+Core;RAG+Pipelines+%7C+LangChain+%7C+Vector+DBs;FastAPI+%7C+Spark+%7C+Kafka+%7C+Airflow;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ankit-dhandharia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:adhandha@stevens.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AnkitDhandharia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Ankit455"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/MSCS_@_Stevens-0045A5?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Ankit455&label=Profile+Views&color=378ADD&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-AWS Certified Data Engineer with **1.5+ years of production experience** building scalable pipelines, streaming architectures, and ML-ready data systems. I bridge the gap between raw data and real decisions — whether that's a Medallion Architecture warehouse in Snowflake, a RAG pipeline powered by LangChain, or a low-latency FastAPI service serving inference at scale.
+AWS Certified Data Engineer with **1.5+ years of production experience** building scalable pipelines, streaming architectures, and ML-ready data systems. I bridge the gap between raw data and real decisions — whether that's a Medallion Architecture warehouse in Snowflake, a RAG pipeline powered by LangChain, or a low-latency FastAPI service at scale.
 
 - 🎓 MSCS @ Stevens Institute of Technology, Hoboken NJ — GPA: **3.709 / 4.0** (Exp. May 2026)
 - ☁️ **AWS Certified Data Engineer – Associate** (Mar 2026)
 - 📍 Based in Union City, NJ | Open to full-time roles in Data / AI / Software Engineering
 - ⚡ Reduced pipeline latency by **35%**, cut compute costs by **40%**, processed **500k+ records/day**
+- 🌐 **[View my interactive portfolio →](https://ankit455.github.io)**
 
 ---
 
@@ -76,16 +78,14 @@ AWS Certified Data Engineer with **1.5+ years of production experience** buildin
 
 ---
 
-## 💼 Experience
+## 🏗 What I'm Currently Working On
 
-**Data Engineer** · Rajlaxmi Solutions Private Limited · May 2023 – June 2024
-- Production ELT pipelines processing 500k+ daily records in Python, Spark & Airflow
-- Snowflake warehouse design with Medallion Architecture & dimensional modeling
-- Schema validation, anomaly detection & SLA alerting — contributed to an Industry Excellence Award
-
-**Data Analyst Intern** · Rajlaxmi Solutions Private Limited · Jan – May 2023
-- Migrated 200GB+ legacy databases to cloud; 25% SQL performance improvement
-- Automated Airflow reporting workflows — eliminated 15+ hrs/month of manual work
+```text
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  Streaming pipeline with Kafka + Spark + dbt
+[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  RAG system with local LLMs and ChromaDB
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  AWS Certified Solutions Architect prep
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  MSCS coursework @ Stevens (GPA 3.709)
+```
 
 ---
 
@@ -104,8 +104,20 @@ AWS Certified Data Engineer with **1.5+ years of production experience** buildin
 
 - Zero-cost RAG backend using local HuggingFace embeddings (384-dim) — no cloud API dependency
 - Persistent ChromaDB + SQLite vector store; **sub-second retrieval** over 400+ page documents
-- Full OOP-driven modular design; REST API endpoints via FastAPI for production inference
-- Reduced manual document review from hours to minutes per query
+- Full OOP-driven modular design with REST API endpoints via FastAPI for production inference
+
+---
+
+## 💼 Experience
+
+**Data Engineer** · Rajlaxmi Solutions Private Limited · May 2023 – June 2024
+- Production ELT pipelines processing 500k+ daily records in Python, Spark & Airflow
+- Snowflake warehouse design with Medallion Architecture & dimensional modeling
+- Schema validation, anomaly detection & SLA alerting — contributed to an Industry Excellence Award
+
+**Data Analyst Intern** · Rajlaxmi Solutions Private Limited · Jan – May 2023
+- Migrated 200GB+ legacy databases to cloud; 25% SQL performance improvement
+- Automated Airflow reporting workflows — eliminated 15+ hrs/month of manual work
 
 ---
 
@@ -116,29 +128,13 @@ AWS Certified Data Engineer with **1.5+ years of production experience** buildin
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitDhandharia&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitDhandharia&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit455&theme=default&hide_border=true" />
-</p>
-
----
-
 ## 📬 Get In Touch
 
 - 📧 adhandha@stevens.edu
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-dhandharia/)
+- 🌐 [Interactive Portfolio](https://ankit455.github.io)
 - 📍 Union City, NJ (open to remote & hybrid)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankit455label=Profile+Views&color=378ADD&style=flat" />
-</p>
 
 > ⚡ *Fun fact: I once eliminated 15 hours of manual work a month with a single Airflow DAG — and haven't looked back.*
