@@ -124,7 +124,7 @@ AWS Certified Data Engineer with **1.5+ years of production experience** buildin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitDhandharia&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit455&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -132,13 +132,13 @@ AWS Certified Data Engineer with **1.5+ years of production experience** buildin
 ## 📬 Get In Touch
 
 - 📧 adhandha@stevens.edu
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankit-dhandharia/)
 - 📍 Union City, NJ (open to remote & hybrid)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitDhandharia&label=Profile+Views&color=378ADD&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ankit455label=Profile+Views&color=378ADD&style=flat" />
 </p>
 
 > ⚡ *Fun fact: I once eliminated 15 hours of manual work a month with a single Airflow DAG — and haven't looked back.*
